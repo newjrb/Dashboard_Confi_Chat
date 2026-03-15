@@ -448,6 +448,11 @@ header p {
     text-transform: uppercase;
 }
 
+.agent-trend.down .trend-tag {
+    background: rgba(244, 63, 94, 0.1);
+    color: var(--accent-red);
+}
+
 .toast-notification {
     position: fixed;
     bottom: 24px;

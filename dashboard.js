@@ -47,7 +47,7 @@ const dadosAgentes = {
         { nome: "Cibelle", resolucoes: 104, conversas: 44, avatar: "CB", status: "Online" },
         { nome: "Janahyara", resolucoes: 103, conversas: 41, avatar: "JY", status: "Online" },
         { nome: "Evelyn", resolucoes: 68, conversas: 22, avatar: "EV", status: "Online" },
-        { nome: "Abel Junior", resolucoes: 62, conversas: 12, avatar: "AJ", status: "Offline" },
+        { nome: "Abel Junior", resolucoes: 62, conversas: 12, avatar: "AJ", status: "Online" },
         { nome: "Polyana", resolucoes: 61, conversas: 18, avatar: "PY", status: "Offline" },
         { nome: "Isadora", resolucoes: 37, conversas: 8, avatar: "ID", status: "Online" },
         { nome: "Ana Gama", resolucoes: 35, conversas: 8, avatar: "AG", status: "Online" },
