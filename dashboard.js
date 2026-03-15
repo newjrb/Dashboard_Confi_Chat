@@ -98,8 +98,8 @@ function initDashboard() {
                 <span class="agent-name">${agente.nome}</span>
                 <span class="agent-score">${agente.resolucoes} resoluções</span>
             </div>
-            <div class="agent-trend up">
-                <span class="trend-tag">Ativo</span>
+            <div class="agent-trend ${agente.status === 'Online' ? 'up' : 'down'}">
+                <span class="trend-tag">${agente.status === 'Online' ? 'Ativo' : 'Inativo'}</span>
             </div>
         `;
         rankingEl.appendChild(item);
